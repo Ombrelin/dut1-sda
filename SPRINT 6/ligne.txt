@@ -1,0 +1,66 @@
+1 turing durand 18/01/17 20:48:02 0 4
+itee sur le Tour de 
+2 turing martin 18/01/17 20:48:03 0 4
+ Un retour aux origi
+3 turing dupont 18/01/17 20:48:04 0 2
+ise de rugby confirm
+4 turing durand 18/01/17 20:48:05 0 2
+de Bryan Coquard, Vi
+5 turing dupont 18/01/17 20:48:06 0 1
+La Federation franca
+6 turing durand 18/01/17 20:48:07 0 1
+Cyclisme : l equipe 
+7 turing martin 18/01/17 20:48:08 0 1
+A bord de Dongfeng :
+8 turing martin 18/01/17 20:48:09 0 2
+ Franck Cammas retro
+9 turing dupont 18/01/17 20:48:10 0 3
+e Altrad comme spons
+10 turing durand 18/01/17 20:48:11 0 3
+tal Concept, pas inv
+11 turing martin 18/01/17 20:48:12 0 3
+uve le gout du large
+12 turing dupont 18/01/17 20:48:13 0 4
+or du XV de France. 
+13 turing dupont 18/01/17 20:48:14 0 5
+Unique candidat, le 
+14 turing durand 18/01/17 20:48:15 0 5
+France. Les organisa
+15 turing martin 18/01/17 20:48:16 0 5
+nes pour l Aixois do
+16 turing dupont 18/01/17 20:48:17 0 6
+groupe de BTP a ete 
+17 turing durand 18/01/17 20:48:18 0 6
+teurs du Tour ont no
+18 turing martin 18/01/17 20:48:19 0 6
+nt la Coupe de l Ame
+19 turing dupont 18/01/17 20:48:20 0 7
+choisi pour figurer 
+20 turing durand 18/01/17 20:48:21 0 7
+tamment prefere les 
+21 turing martin 18/01/17 20:48:22 0 7
+rica l a tenu eloign
+22 turing dupont 18/01/17 20:48:23 0 8
+sur le maillot des B
+23 turing durand 18/01/17 20:48:24 0 8
+Belges de Wanty-Grou
+24 turing martin 18/01/17 20:48:25 1 8
+e depuis 2013.      
+25 turing dupont 18/01/17 20:48:26 0 9
+leus. Malgre l enque
+26 turing durand 18/01/17 20:48:27 0 9
+pe Gobert a l equipe
+27 turing dupont 18/01/17 20:48:28 0 10
+te sur un possible f
+28 turing durand 18/01/17 20:48:29 0 10
+ bretonne, creee cet
+29 turing dupont 18/01/17 20:48:30 0 11
+avoritisme de Bernar
+30 turing durand 18/01/17 20:48:31 1 11
+te saison.          
+31 turing dupont 18/01/17 20:48:33 0 13
+club de Montpellier,
+32 turing dupont 18/01/17 20:48:34 1 14
+ detenu par Altrad. 
+33 turing dupont 18/01/17 20:49:32 0 12
+d Laporte envers le 
